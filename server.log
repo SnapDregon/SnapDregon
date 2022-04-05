@@ -1,0 +1,473 @@
+2022-03-12 18:17:37 [WARNING] Timezone could not be automatically determined. An incorrect timezone will result in incorrect timestamps on console logs. It has been set to "UTC" by default. You can change it on the php.ini file.
+2022-03-12 18:17:37 [WARNING] Non-packaged PocketMine-MP installation detected, do not use on production.
+2022-03-12 18:17:37 [INFO] Starting Minecraft: PE server version v0.9.5 alpha
+2022-03-12 18:17:37 [INFO] Loading pocketmine.yml...
+2022-03-12 18:17:37 [INFO] Loading server properties...
+2022-03-12 18:17:37 [INFO] Starting Minecraft PE server on 192.168.0.1:19133
+2022-03-12 18:17:38 [INFO] This server is running PocketMine-MP version Alpha_1.4dev-822 "絶好(Zekkou)ケーキ(Cake)" (API 1.7.0)
+2022-03-12 18:17:38 [INFO] PocketMine-MP is distributed under the LGPL License
+2022-03-12 18:17:38 [CRITICAL] **** FAILED TO BIND TO 192.168.0.1:19133!
+2022-03-12 18:17:38 [CRITICAL] Perhaps a server is already running on that port?
+2022-03-12 18:17:38 [EMERGENCY] [RakLib Thread #780] RakLib crashed!
+2022-03-12 18:17:39 [INFO] Preparing level "world"
+2022-03-12 18:17:39 [INFO] Starting GS4 status listener
+2022-03-12 18:17:39 [INFO] Setting query port to 19133
+2022-03-12 18:17:39 [INFO] Query running on 192.168.0.1:19133
+2022-03-12 18:17:39 [INFO] Default game type: SURVIVAL
+2022-03-12 18:17:39 [INFO] Done (8.274s)! For help, type "help" or "?"
+2022-03-12 18:17:55 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:01 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:18:01 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:18:01 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:18:01 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:18:01 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:18:01 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:18:01 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:18:01 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:18:01 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:18:01 [INFO] /help: Shows the help menu
+2022-03-12 18:18:01 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:18:01 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:18:01 [INFO] /list: Lists all online players
+2022-03-12 18:18:01 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:18:01 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:18:01 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:18:01 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:18:01 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:18:01 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:18:01 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:18:01 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:18:01 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:18:01 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:18:01 [INFO] /seed: Shows the world seed
+2022-03-12 18:18:01 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:18:01 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:18:01 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:18:01 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:18:01 [INFO] /time: Changes the time on each world
+2022-03-12 18:18:01 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:18:01 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:18:01 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:18:01 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:18:10 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:18:10 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:18:10 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:18:10 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:18:10 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:18:10 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:18:10 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:18:10 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:18:10 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:18:10 [INFO] /help: Shows the help menu
+2022-03-12 18:18:10 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:18:10 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:18:10 [INFO] /list: Lists all online players
+2022-03-12 18:18:10 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:18:10 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:18:10 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:18:10 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:18:10 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:18:10 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:18:10 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:18:10 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:18:10 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:18:10 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:18:10 [INFO] /seed: Shows the world seed
+2022-03-12 18:18:10 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:18:10 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:18:10 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:18:10 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:18:10 [INFO] /time: Changes the time on each world
+2022-03-12 18:18:10 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:18:10 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:18:10 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:18:10 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:18:15 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:16 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:16 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:16 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:16 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:17 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:18 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:21 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:22 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:28 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:30 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:30 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:30 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:31 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:31 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:32 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:32 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:32 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:33 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:33 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:33 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:34 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:34 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:34 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:35 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:36 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:36 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:36 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:36 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:37 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:37 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:37 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:37 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:38 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:38 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:38 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:38 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:38 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:38 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:39 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:39 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:39 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:39 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:40 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:40 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:40 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:40 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:40 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:41 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:41 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:41 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:41 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:41 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:42 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:42 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:42 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:42 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:42 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:43 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:43 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:18:48 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:18:48 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:18:48 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:18:48 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:18:48 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:18:48 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:18:48 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:18:48 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:18:48 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:18:48 [INFO] /help: Shows the help menu
+2022-03-12 18:18:48 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:18:48 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:18:48 [INFO] /list: Lists all online players
+2022-03-12 18:18:48 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:18:48 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:18:48 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:18:48 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:18:48 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:18:48 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:18:48 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:18:48 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:18:48 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:18:48 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:18:48 [INFO] /seed: Shows the world seed
+2022-03-12 18:18:48 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:18:48 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:18:48 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:18:48 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:18:48 [INFO] /time: Changes the time on each world
+2022-03-12 18:18:48 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:18:48 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:18:48 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:18:48 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:18:50 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:18:50 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:18:50 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:18:50 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:18:50 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:18:50 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:18:50 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:18:50 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:18:50 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:18:50 [INFO] /help: Shows the help menu
+2022-03-12 18:18:50 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:18:50 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:18:50 [INFO] /list: Lists all online players
+2022-03-12 18:18:50 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:18:50 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:18:50 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:18:50 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:18:50 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:18:50 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:18:50 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:18:50 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:18:50 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:18:50 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:18:50 [INFO] /seed: Shows the world seed
+2022-03-12 18:18:50 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:18:50 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:18:50 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:18:50 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:18:50 [INFO] /time: Changes the time on each world
+2022-03-12 18:18:50 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:18:50 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:18:50 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:18:50 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:18:51 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:18:51 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:18:51 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:18:51 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:18:51 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:18:51 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:18:51 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:18:51 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:18:51 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:18:51 [INFO] /help: Shows the help menu
+2022-03-12 18:18:51 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:18:51 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:18:51 [INFO] /list: Lists all online players
+2022-03-12 18:18:51 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:18:51 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:18:51 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:18:51 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:18:51 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:18:51 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:18:51 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:18:51 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:18:51 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:18:51 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:18:51 [INFO] /seed: Shows the world seed
+2022-03-12 18:18:51 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:18:51 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:18:51 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:18:51 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:18:51 [INFO] /time: Changes the time on each world
+2022-03-12 18:18:51 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:18:51 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:18:51 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:18:51 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:18:53 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:18:53 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:18:53 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:18:53 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:18:53 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:18:53 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:18:53 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:18:53 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:18:53 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:18:53 [INFO] /help: Shows the help menu
+2022-03-12 18:18:53 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:18:53 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:18:53 [INFO] /list: Lists all online players
+2022-03-12 18:18:53 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:18:53 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:18:53 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:18:53 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:18:53 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:18:53 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:18:53 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:18:53 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:18:53 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:18:53 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:18:53 [INFO] /seed: Shows the world seed
+2022-03-12 18:18:53 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:18:53 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:18:53 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:18:53 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:18:53 [INFO] /time: Changes the time on each world
+2022-03-12 18:18:53 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:18:53 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:18:53 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:18:53 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:18:54 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:18:54 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:18:54 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:18:54 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:18:54 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:18:54 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:18:54 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:18:54 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:18:54 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:18:54 [INFO] /help: Shows the help menu
+2022-03-12 18:18:54 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:18:54 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:18:54 [INFO] /list: Lists all online players
+2022-03-12 18:18:54 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:18:54 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:18:54 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:18:54 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:18:54 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:18:54 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:18:54 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:18:54 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:18:54 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:18:54 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:18:54 [INFO] /seed: Shows the world seed
+2022-03-12 18:18:54 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:18:54 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:18:54 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:18:54 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:18:54 [INFO] /time: Changes the time on each world
+2022-03-12 18:18:54 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:18:54 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:18:54 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:18:54 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:18:56 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:18:56 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:18:56 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:18:56 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:18:56 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:18:56 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:18:56 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:18:56 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:18:56 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:18:56 [INFO] /help: Shows the help menu
+2022-03-12 18:18:56 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:18:56 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:18:56 [INFO] /list: Lists all online players
+2022-03-12 18:18:56 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:18:56 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:18:56 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:18:56 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:18:56 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:18:56 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:18:56 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:18:56 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:18:56 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:18:56 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:18:56 [INFO] /seed: Shows the world seed
+2022-03-12 18:18:56 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:18:56 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:18:56 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:18:56 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:18:56 [INFO] /time: Changes the time on each world
+2022-03-12 18:18:56 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:18:56 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:18:56 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:18:56 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:18:59 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:18:59 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:18:59 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:18:59 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:18:59 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:18:59 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:18:59 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:18:59 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:18:59 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:18:59 [INFO] /help: Shows the help menu
+2022-03-12 18:18:59 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:18:59 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:18:59 [INFO] /list: Lists all online players
+2022-03-12 18:18:59 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:18:59 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:18:59 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:18:59 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:18:59 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:18:59 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:18:59 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:18:59 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:18:59 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:18:59 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:18:59 [INFO] /seed: Shows the world seed
+2022-03-12 18:18:59 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:18:59 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:18:59 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:18:59 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:18:59 [INFO] /time: Changes the time on each world
+2022-03-12 18:18:59 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:18:59 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:18:59 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:18:59 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:20:42 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:22:47 [INFO] Unknown command. Type "help" for help.
+2022-03-12 18:22:51 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:22:51 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:22:51 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:22:51 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:22:51 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:22:51 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:22:51 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:22:51 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:22:51 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:22:51 [INFO] /help: Shows the help menu
+2022-03-12 18:22:51 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:22:51 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:22:51 [INFO] /list: Lists all online players
+2022-03-12 18:22:51 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:22:51 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:22:51 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:22:51 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:22:51 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:22:51 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:22:51 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:22:51 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:22:51 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:22:51 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:22:51 [INFO] /seed: Shows the world seed
+2022-03-12 18:22:51 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:22:51 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:22:51 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:22:51 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:22:51 [INFO] /time: Changes the time on each world
+2022-03-12 18:22:51 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:22:51 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:22:51 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:22:51 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:22:53 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:22:53 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:22:53 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:22:53 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:22:53 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:22:53 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:22:53 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:22:53 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:22:53 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:22:53 [INFO] /help: Shows the help menu
+2022-03-12 18:22:53 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:22:53 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:22:53 [INFO] /list: Lists all online players
+2022-03-12 18:22:53 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:22:53 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:22:53 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:22:53 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:22:53 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:22:53 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:22:53 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:22:53 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:22:53 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:22:53 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:22:53 [INFO] /seed: Shows the world seed
+2022-03-12 18:22:53 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:22:53 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:22:53 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:22:53 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:22:53 [INFO] /time: Changes the time on each world
+2022-03-12 18:22:53 [INFO] /timings: Records timings to see performance of the server.
+2022-03-12 18:22:53 [INFO] /tp: Teleports the given player (or yourself) to another player or coordinates
+2022-03-12 18:22:53 [INFO] /version: Gets the version of this server including any plugins in use
+2022-03-12 18:22:53 [INFO] /whitelist: Manages the list of players allowed to use this server
+2022-03-12 18:22:54 [INFO] - Showing help page 1 of 1 (/help <pageNumber>) -
+2022-03-12 18:22:54 [INFO] /ban: Prevents the specified player from using this server
+2022-03-12 18:22:54 [INFO] /ban-ip: Prevents the specified IP address from using this server
+2022-03-12 18:22:54 [INFO] /banlist: View all players banned from this server
+2022-03-12 18:22:54 [INFO] /defaultgamemode: Set the default gamemode
+2022-03-12 18:22:54 [INFO] /deop: Takes the specified player's operator status
+2022-03-12 18:22:54 [INFO] /difficulty: Sets the game difficulty
+2022-03-12 18:22:54 [INFO] /gamemode: Changes the player to a specific game mode
+2022-03-12 18:22:54 [INFO] /give: Gives the specified player a certain amount of items
+2022-03-12 18:22:54 [INFO] /help: Shows the help menu
+2022-03-12 18:22:54 [INFO] /kick: Removes the specified player from the server
+2022-03-12 18:22:54 [INFO] /kill: Commits suicide, only usable as a player
+2022-03-12 18:22:54 [INFO] /list: Lists all online players
+2022-03-12 18:22:54 [INFO] /me: Performs the specified action in chat
+2022-03-12 18:22:54 [INFO] /op: Gives the specified player operator status
+2022-03-12 18:22:54 [INFO] /pardon: Allows the specified player to use this server
+2022-03-12 18:22:54 [INFO] /pardon-ip: Allows the specified IP address to use this server
+2022-03-12 18:22:54 [INFO] /plugins: Gets a list of plugins running on the server
+2022-03-12 18:22:54 [INFO] /reload: Reloads the server configuration and plugins
+2022-03-12 18:22:54 [INFO] /save-all: Saves the server to disk
+2022-03-12 18:22:54 [INFO] /save-off: Disables server autosaving
+2022-03-12 18:22:54 [INFO] /save-on: Enables server autosaving
+2022-03-12 18:22:54 [INFO] /say: Broadcasts the given message as the sender
+2022-03-12 18:22:54 [INFO] /seed: Shows the world seed
+2022-03-12 18:22:54 [INFO] /setworldspawn: Sets a worlds's spawn point. If no coordinates are specified, the player's coordinates will be used.
+2022-03-12 18:22:54 [INFO] /spawnpoint: Sets a player's spawn point
+2022-03-12 18:22:54 [INFO] /stop: Stops the server, with optional reason
+2022-03-12 18:22:54 [INFO] /tell: Sends a private message to the given player
+2022-03-12 18:22:54 [INFO] /time: Changes the time on each world
+2022-03-12 18:22:54 [INFO] /timings: Records ti
